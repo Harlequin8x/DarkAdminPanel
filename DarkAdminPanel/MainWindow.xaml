@@ -57,15 +57,15 @@
 
                 <Button Style="{StaticResource menuButton}">
                     <StackPanel Orientation="Horizontal">
-                        <fa:IconImage Icon="FileSignature" Style="{StaticResource menuButtonIcon}"/>
-                        <TextBlock Text="Listing" Style="{StaticResource menuButtonText}"/>
+                        <fa:IconImage Icon="Newspaper" Style="{StaticResource menuButtonIcon}"/>
+                        <TextBlock Text="News" Style="{StaticResource menuButtonText}"/>
                     </StackPanel>
                 </Button>
 
                 <Button Style="{StaticResource menuButton}">
                     <StackPanel Orientation="Horizontal">
-                        <fa:IconImage Icon="EnvelopeOpenText" Style="{StaticResource menuButtonIcon}"/>
-                        <TextBlock Text="Messages" Style="{StaticResource menuButtonText}"/>
+                        <fa:IconImage Icon="Film" Style="{StaticResource menuButtonIcon}"/>
+                        <TextBlock Text="Movies" Style="{StaticResource menuButtonText}"/>
                     </StackPanel>
                 </Button>
 
